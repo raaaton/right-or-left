@@ -1,4 +1,4 @@
-# This is the Right or Left game :
+# Right or Left game :
 How to play: 
 You click on the Start button,
 Then, you have to tap the arrow keys in terms of the instruction (right or left).
